@@ -1,5 +1,5 @@
 
-1.Sorting Method
+//1.Sorting Method
 
 class Solution {
     public int findDuplicate(int[] nums) {
